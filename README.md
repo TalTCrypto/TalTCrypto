@@ -1,4 +1,4 @@
-<h1 align="center">🪐 TalT</h1>
+<h1 align="center">TalT</h1>
 
 <p align="center">
   <b>Creator of <code>TalT Sniper Bot</code> | Solana Addict | Pro Reply Guy 💬</b><br>
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-@TalTCrypto-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
   <a href="https://github.com/talt">
-    <img src="https://img.shields.io/github/followers/talt?label=Follow&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/TalTCrypto?label=Follow&style=social" alt="GitHub Followers">
   </a>
   <a href="https://axiom.trade/@talt">
     <img src="https://img.shields.io/badge/Axiom-Profile-blueviolet?style=flat&logo=solana" alt="Axiom Badge">
