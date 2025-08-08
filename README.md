@@ -1,29 +1,69 @@
-# 🪐 TalT
+<h1 align="center">🪐 TalT</h1>
 
-**Creator of TalT Sniper Bot**  
-Solana Addict • Professional Reply Guy 💬  
-Building at [Axiom](https://axiom.trade/@talt)
+<p align="center">
+  <b>Creator of <code>TalT Sniper Bot</code> | Solana Addict | Pro Reply Guy 💬</b><br>
+  Building at <a href="https://axiom.trade/@talt" target="_blank">Axiom</a>
+</p>
 
----
-
-### 🛠️ Tech Stack
-
-- 🔗 Solana • Anchor
-- 🧠 AI Automation • Rust • Python
-- ⚙️ TypeScript • Next.js • PostgreSQL
-
----
-
-### 🚀 Projects
-
-- 🎯 **TalT Sniper Bot** — A fast & efficient trading sniper on Solana
-- 🧩 **Axiom** — Enabling smarter on-chain trading decisions
-- 🧪 [More on GitHub](https://github.com/talt?tab=repositories)
+<p align="center">
+  <a href="https://twitter.com/TalTCrypto">
+    <img src="https://img.shields.io/badge/Twitter-@TalTCrypto-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge">
+  </a>
+  <a href="https://github.com/talt">
+    <img src="https://img.shields.io/github/followers/talt?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://axiom.trade/@talt">
+    <img src="https://img.shields.io/badge/Axiom-Profile-blueviolet?style=flat&logo=solana" alt="Axiom Badge">
+  </a>
+</p>
 
 ---
 
-### 📫 Connect
+## 🧠 About Me
+
+- 👨‍💻 I'm building bots and tools on the **Solana blockchain**.
+- ⚡ Creator of **TalT Sniper Bot**, focused on speed, efficiency, and edge.
+- 🧩 I help projects integrate **automation and crypto-native payments**.
+
+---
+
+## 🚀 Projects
+
+| Project | Description |
+|--------|-------------|
+| [**TalT Sniper Bot**](https://github.com/talt) | Solana sniping bot optimized for low latency & smart execution. |
+| [**Axiom Profile**](https://axiom.trade/@talt) | Track trades, analyze moves, and connect with alpha-driven wallets. |
+
+---
+
+## 🛠 Tech Stack
+
+- ⚙️ TypeScript, Next.js, PostgreSQL, Prisma, Zustand
+- 🔐 Crypto: Solana, Anchor, Rust
+- 🧠 AI Automation • Python • Zod • React Hook Form
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talt&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talt&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talt&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect
 
 - Twitter: [@TalTCrypto](https://twitter.com/TalTCrypto)
-- Telegram: @TalTCrypto
-- Axiom: [axiom.trade/@talt](https://axiom.trade/@talt)
+- Telegram: `@TalTCrypto`
+- Axiom: [https://axiom.trade/@talt](https://axiom.trade/@talt)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=talt&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
