@@ -9,7 +9,7 @@
   <a href="https://twitter.com/TalTCrypto">
     <img src="https://img.shields.io/badge/Twitter-@TalTCrypto-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
-  <a href="https://github.com/talt">
+  <a href="https://github.com/TalTCrypto">
     <img src="https://img.shields.io/github/followers/TalTCrypto?label=Follow&style=social" alt="GitHub Followers">
   </a>
   <a href="https://axiom.trade/@talt">
@@ -31,7 +31,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [**TalT Sniper Bot**](https://github.com/talt) | Solana sniping bot optimized for low latency & smart execution. |
+| [**TalT Sniper Bot**](https://github.com/TalTCrypto) | Solana sniping bot optimized for low latency & smart execution. |
 | [**Axiom Profile**](https://axiom.trade/@talt) | Track trades, analyze moves, and connect with alpha-driven wallets. |
 
 ---
@@ -48,19 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=talt&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talt&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talt&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-## 📫 Connect
-
-- Twitter: [@TalTCrypto](https://twitter.com/TalTCrypto)
-- Telegram: `@TalTCrypto`
-- Axiom: [https://axiom.trade/@talt](https://axiom.trade/@talt)
 
 ---
 
