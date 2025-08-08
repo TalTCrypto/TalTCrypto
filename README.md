@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🪐 TalT
 
-<!--
-**TalTCrypto/TalTCrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Creator of TalT Sniper Bot**  
+Solana Addict • Professional Reply Guy 💬  
+Building at [Axiom](https://axiom.trade/@talt)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- 🔗 Solana • Anchor
+- 🧠 AI Automation • Rust • Python
+- ⚙️ TypeScript • Next.js • PostgreSQL
+
+---
+
+### 🚀 Projects
+
+- 🎯 **TalT Sniper Bot** — A fast & efficient trading sniper on Solana
+- 🧩 **Axiom** — Enabling smarter on-chain trading decisions
+- 🧪 [More on GitHub](https://github.com/talt?tab=repositories)
+
+---
+
+### 📫 Connect
+
+- Twitter: [@TalTCrypto](https://twitter.com/TalTCrypto)
+- Telegram: @TalTCrypto
+- Axiom: [axiom.trade/@talt](https://axiom.trade/@talt)
